@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto IRCVF Movies é um sistema de listagem de filmes.
 
 - [Tenha o projeto finalizado clicando aqui! ](https://github.com/ircvf/projeto_links)
-- [Link para conhecer o projeto!](https://ircvf-links.netlify.app/)
+- [Link para conhecer o projeto!](https://ircvf-movies.netlify.app/)
 
 ---
 
