@@ -69,7 +69,7 @@ export function Movie() {
       <h3>Sinopse:</h3>
       <span>{movie.overview}</span>
 
-      <strong>Avaliação: {movie.vote_average} / 10</strong>
+      <strong>Avaliação: {movie.vote_average.toFixed(1)} / 10</strong>
 
       <div className="area_btns">
         <button onClick={handleSaveMovie}>Salvar</button>
